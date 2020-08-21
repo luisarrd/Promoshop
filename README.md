@@ -1,2 +1,0 @@
-# Promoshop
-Paguina de promociones
